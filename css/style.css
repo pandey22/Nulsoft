@@ -2707,6 +2707,7 @@ social icons
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  color: blueviolet;
 }
 .mil-social-icons.mil-center {
   -webkit-box-pack: center;
